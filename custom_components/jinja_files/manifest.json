@@ -4,6 +4,9 @@
   "after_dependencies": [
     "hassio"
   ],
+  "categories": [
+    "computers_network.cloud_developer_tools"
+  ],
   "codeowners": [
     "@saya6k"
   ],
